@@ -9,7 +9,7 @@ export default defineConfig({
       manifest: {  
   name: 'pwa_example',  
         short_name: 'pwa_ex',  
-        description: 'Website description(Could be same with index.html file)',  
+        description: 'pwa example with vite plugin',  
         theme_color: '#ffffff',  
         start_url: '/',  
         icons: [  
